@@ -363,71 +363,72 @@ Currently, **officially** using Airflow:
 1. [Surfline](https://www.surfline.com/) [[@jawang35](https://github.com/jawang35)]
 1. [Syapse](https://www.syapse.com/) [[@zedmor](https://github.com/zedmor)]
 1. [T2 Systems](http://t2systems.com) [[@unclaimedpants](https://github.com/unclaimedpants)]
-1. [Tails.com](https://tails.com/) [[@alanmcruickshank](https://github.com/alanmcruickshank)]
-1. [TEK](https://www.tek.fi/en) [[@telac](https://github.com/telac)]
-1. [Telefonica Innovation Alpha](https://www.alpha.company/) [[@Alpha-Health](https://github.com/Alpha-health)]
-1. [Telia Company](https://www.teliacompany.com/en)
-1. [Ternary Data](https://ternarydata.com/) [[@mhousley](https://github.com/mhousley), [@JoeReis](https://github.com/JoeReis)]
-1. [Tesla](https://www.tesla.com/) [[@thoralf-gutierrez](https://github.com/thoralf-gutierrez)]
-1. [TextNow](https://www.textnow.com/)
-1. [The Climate Corporation](https://climate.com/) [[@jmelching](https://github.com/jmelching)]
-1. [The Dyrt](https://thedyrt.com/) [[@mfjackson](https://github.com/mfjackson)]
-1. [The Home Depot](https://www.homedepot.com/) [[@apekshithr](https://github.com/apekshithr)]
-1. [THE ICONIC](https://www.theiconic.com.au/) [[@revathijay](https://github.com/revathijay), [@ilikedata](https://github.com/ilikedata)]
-1. [Thinking Machines](https://thinkingmachin.es) [[@marksteve](https://github.com/marksteve)]
-1. [Thinknear](https://www.thinknear.com/) [[@d3cay1](https://github.com/d3cay1), [@ccson](https://github.com/ccson), & [@ababian](https://github.com/ababian)]
-1. [ThoughtWorks](https://www.thoughtworks.com/) [[@sann3](https://github.com/sann3)]
-1. [ThredUP](https://www.thredup.com/) [[@kosteev](https://github.com/kosteev)]
-1. [Thumbtack](https://www.thumbtack.com/) [[@kamalacharya](https://github.com/kamalacharya), [@dwjoss](https://github.com/dwjoss)]
-1. [Tictail](https://tictail.com/)
-1. [Tile](https://tile.com/) [[@ranjanmanish](https://github.com/ranjanmanish)]
-1. [Tinder](https://tinder.com/) [[@kbendick](https://github.com/kbendick)]
-1. [Tink](https://tink.com/) [[@tink-ab](https://github.com/tink-ab)]
-1. [TokenAnalyst](https://github.com/tokenanalyst) [[@simonohanlon101](https://github.com/simonohanlon101), [@ankitchiplunkar](https://github.com/ankitchiplunkar), [@sidshekhar](https://github.com/sidshekhar), [@sp6pe](https://github.com/sp6pe)]
-1. [Tokopedia](https://www.tokopedia.com/) [[@topedmaria](https://github.com/topedmaria)]
-1. [Trade Republic](https://traderepublic.com/) [[@feluelle](https://github.com/feluelle)]
-1. [Trocafone](https://www.trocafone.com/) [[@idontdomath](https://github.com/idontdomath) & [@gseva](https://github.com/gseva) & [@ordonezf](https://github.com/ordonezf) & [@PalmaLeandro](https://github.com/PalmaLeandro)]
-1. [TruFactor](https://trufactor.io/) [[@gholmes](https://github.com/gholmes) & [@angadsingh](https://github.com/angadsingh/)]
-1. [Twine Labs](https://www.twinelabs.com/) [[@ivorpeles](https://github.com/ivorpeles)]
-1. [Twitter](https://www.twitter.com/) [[@aoen](https://github.com/aoen)]
-1. [Ubisoft](https://www.ubisoft.com/) [[@Walkoss](https://github.com/Walkoss)]
-1. [Udacity](https://www.udacity.com/) [[@dandikunited](https://github.com/DandikUnited), [@simon-uc](https://github.com/simon-uc)]
-1. [Umami Collective](https://umamicollective.com) [[@juanuicich](https://github.com/juanuicich)]
-1. [United Airlines](https://www.united.com/) [[@ilopezfr](https://github.com/ilopezfr)]
-1. [Upsight](https://www.upsight.com)
-1. [USC Graduate School, University of Southern California](https://graduateschool.usc.edu/) [[@abhilash1in](https://github.com/abhilash1in), [@sudarshansunder](https://github.com/sudarshansunder)]
-1. [uSmart Securities](https://www.usmartsecurities.com/hk/en/) [[@yangrong688](https://github.com/yangrong688)]
-1. [VeeR VR](https://veer.tv) [[@pishilong](https://github.com/pishilong)]
-1. [Veikkaus](https://www.veikkaus.fi) [[@hixus](https://github.com/hixus)]
-1. [Vente-Exclusive.com](http://www.vente-exclusive.com/) [[@alexvanboxel](https://github.com/alexvanboxel)]
-1. [Vestiaire Collective](https://www.vestiairecollective.com/) [[@AdriMarteau](https://github.com/AdriMarteau), [@benbenbang](https://github.com/benbenbang)]
-1. [Vevo](https://www.vevo.com/) [[@csetiawan](https://github.com/csetiawan) & [@jerrygillespie](https://github.com/jerrygillespie)]
-1. [Vidio](https://www.vidio.com/)
-1. [Vidora](https://www.vidora.com/)
-1. [Ville de Montréal](http://ville.montreal.qc.ca/) [[@VilledeMontreal](https://github.com/VilledeMontreal/)]
-1. [Vnomics](https://github.com/vnomics) [[@lpalum](https://github.com/lpalum)]
-1. [Walmart Labs](https://www.walmartlabs.com) [[@bharathpalaksha](https://github.com/bharathpalaksha), [@vipul007ravi](https://github.com/vipul007ravi)]
-1. [Waze](https://www.waze.com) [[@waze](https://github.com/wazeHQ)]
-1. [WePay](http://www.wepay.com) [[@criccomini](https://github.com/criccomini) & [@mtagle](https://github.com/mtagle)]
-1. [WeTransfer](https://github.com/WeTransfer) [[@coredipper](https://github.com/coredipper) & [@higee](https://github.com/higee) & [@azclub](https://github.com/azclub)]
-1. [Whistle Labs](http://www.whistle.com) [[@ananya77041](https://github.com/ananya77041)]
-1. [Wildlifestudios](https://wildlifestudios.com/)
-1. [WiseBanyan](https://wisebanyan.com/)
-1. [Wise](https://wise.com) [[@koszti](https://github.com/koszti)]
-1. [Wisr](https://wisr.com.au/) [[@fsodano](https://github.com/fsodano) & [@vincyf1](https://github.com/vincyf1)]
-1. [WixAnswers](https://www.wixanswers.com/) [[@eladkal](https://github.com/eladkal)]
-1. [Wix](https://www.wix.com/) [[@eladkal](https://github.com/eladkal)]
-1. [Wooga](https://www.wooga.com/)
-1. [WorldRemit](https://www.worldremit.com/) [[@boittega](https://github.com/boittega)]
-1. [Wrike](https://www.wrike.com) [[@eliseealex](https://github.com/eliseealex) & [teoretic6](https://github.com/Teoretic6)]
-1. [Xero](https://www.xero.com/) [[@yan9yu](https://github.com/yan9yu) & [adamantnz](https://github.com/adamantnz/)]
-1. [Xoom](https://www.xoom.com/)
-1. [Yahoo!](https://www.yahoo.com/)
-1. [Yieldr](https://www.yieldr.com/) [[@ggeorgiadis](https://github.com/ggeorgiadis)]
-1. [Zapier](https://www.zapier.com) [[@drknexus](https://github.com/drknexus) & [@statwonk](https://github.com/statwonk)]
-1. [Zego](https://www.zego.com/) [[@ruimffl](https://github.com/ruimffl), [@james-welly](https://github.com/james-welly), [@ken-payne](https://github.com/ken-payne)]
-1. [Zendesk](https://www.github.com/zendesk)
-1. [Zenly](https://zen.ly) [[@cerisier](https://github.com/cerisier) & [@jbdalido](https://github.com/jbdalido)]
-1. [Zerodha](https://zerodha.com/) [[@johnnybravo-xyz](https://github.com/johnnybravo-xyz)]
-1. [Zymergen](https://www.zymergen.com/)
-1. [Zynga](https://www.zynga.com)
+2. [Talkdesk](https://talkdesk.com/)]
+3. [Tails.com](https://tails.com/) [[@alanmcruickshank](https://github.com/alanmcruickshank)]
+4. [TEK](https://www.tek.fi/en) [[@telac](https://github.com/telac)]
+5. [Telefonica Innovation Alpha](https://www.alpha.company/) [[@Alpha-Health](https://github.com/Alpha-health)]
+6. [Telia Company](https://www.teliacompany.com/en)
+7. [Ternary Data](https://ternarydata.com/) [[@mhousley](https://github.com/mhousley), [@JoeReis](https://github.com/JoeReis)]
+8. [Tesla](https://www.tesla.com/) [[@thoralf-gutierrez](https://github.com/thoralf-gutierrez)]
+9. [TextNow](https://www.textnow.com/)
+10. [The Climate Corporation](https://climate.com/) [[@jmelching](https://github.com/jmelching)]
+11. [The Dyrt](https://thedyrt.com/) [[@mfjackson](https://github.com/mfjackson)]
+12. [The Home Depot](https://www.homedepot.com/) [[@apekshithr](https://github.com/apekshithr)]
+13. [THE ICONIC](https://www.theiconic.com.au/) [[@revathijay](https://github.com/revathijay), [@ilikedata](https://github.com/ilikedata)]
+14. [Thinking Machines](https://thinkingmachin.es) [[@marksteve](https://github.com/marksteve)]
+15. [Thinknear](https://www.thinknear.com/) [[@d3cay1](https://github.com/d3cay1), [@ccson](https://github.com/ccson), & [@ababian](https://github.com/ababian)]
+16. [ThoughtWorks](https://www.thoughtworks.com/) [[@sann3](https://github.com/sann3)]
+17. [ThredUP](https://www.thredup.com/) [[@kosteev](https://github.com/kosteev)]
+18. [Thumbtack](https://www.thumbtack.com/) [[@kamalacharya](https://github.com/kamalacharya), [@dwjoss](https://github.com/dwjoss)]
+19. [Tictail](https://tictail.com/)
+20. [Tile](https://tile.com/) [[@ranjanmanish](https://github.com/ranjanmanish)]
+21. [Tinder](https://tinder.com/) [[@kbendick](https://github.com/kbendick)]
+22. [Tink](https://tink.com/) [[@tink-ab](https://github.com/tink-ab)]
+23. [TokenAnalyst](https://github.com/tokenanalyst) [[@simonohanlon101](https://github.com/simonohanlon101), [@ankitchiplunkar](https://github.com/ankitchiplunkar), [@sidshekhar](https://github.com/sidshekhar), [@sp6pe](https://github.com/sp6pe)]
+24. [Tokopedia](https://www.tokopedia.com/) [[@topedmaria](https://github.com/topedmaria)]
+25. [Trade Republic](https://traderepublic.com/) [[@feluelle](https://github.com/feluelle)]
+26. [Trocafone](https://www.trocafone.com/) [[@idontdomath](https://github.com/idontdomath) & [@gseva](https://github.com/gseva) & [@ordonezf](https://github.com/ordonezf) & [@PalmaLeandro](https://github.com/PalmaLeandro)]
+27. [TruFactor](https://trufactor.io/) [[@gholmes](https://github.com/gholmes) & [@angadsingh](https://github.com/angadsingh/)]
+28. [Twine Labs](https://www.twinelabs.com/) [[@ivorpeles](https://github.com/ivorpeles)]
+29. [Twitter](https://www.twitter.com/) [[@aoen](https://github.com/aoen)]
+30. [Ubisoft](https://www.ubisoft.com/) [[@Walkoss](https://github.com/Walkoss)]
+31. [Udacity](https://www.udacity.com/) [[@dandikunited](https://github.com/DandikUnited), [@simon-uc](https://github.com/simon-uc)]
+32. [Umami Collective](https://umamicollective.com) [[@juanuicich](https://github.com/juanuicich)]
+33. [United Airlines](https://www.united.com/) [[@ilopezfr](https://github.com/ilopezfr)]
+34. [Upsight](https://www.upsight.com)
+35. [USC Graduate School, University of Southern California](https://graduateschool.usc.edu/) [[@abhilash1in](https://github.com/abhilash1in), [@sudarshansunder](https://github.com/sudarshansunder)]
+36. [uSmart Securities](https://www.usmartsecurities.com/hk/en/) [[@yangrong688](https://github.com/yangrong688)]
+37. [VeeR VR](https://veer.tv) [[@pishilong](https://github.com/pishilong)]
+38. [Veikkaus](https://www.veikkaus.fi) [[@hixus](https://github.com/hixus)]
+39. [Vente-Exclusive.com](http://www.vente-exclusive.com/) [[@alexvanboxel](https://github.com/alexvanboxel)]
+40. [Vestiaire Collective](https://www.vestiairecollective.com/) [[@AdriMarteau](https://github.com/AdriMarteau), [@benbenbang](https://github.com/benbenbang)]
+41. [Vevo](https://www.vevo.com/) [[@csetiawan](https://github.com/csetiawan) & [@jerrygillespie](https://github.com/jerrygillespie)]
+42. [Vidio](https://www.vidio.com/)
+43. [Vidora](https://www.vidora.com/)
+44. [Ville de Montréal](http://ville.montreal.qc.ca/) [[@VilledeMontreal](https://github.com/VilledeMontreal/)]
+45. [Vnomics](https://github.com/vnomics) [[@lpalum](https://github.com/lpalum)]
+46. [Walmart Labs](https://www.walmartlabs.com) [[@bharathpalaksha](https://github.com/bharathpalaksha), [@vipul007ravi](https://github.com/vipul007ravi)]
+47. [Waze](https://www.waze.com) [[@waze](https://github.com/wazeHQ)]
+48. [WePay](http://www.wepay.com) [[@criccomini](https://github.com/criccomini) & [@mtagle](https://github.com/mtagle)]
+49. [WeTransfer](https://github.com/WeTransfer) [[@coredipper](https://github.com/coredipper) & [@higee](https://github.com/higee) & [@azclub](https://github.com/azclub)]
+50. [Whistle Labs](http://www.whistle.com) [[@ananya77041](https://github.com/ananya77041)]
+51. [Wildlifestudios](https://wildlifestudios.com/)
+52. [WiseBanyan](https://wisebanyan.com/)
+53. [Wise](https://wise.com) [[@koszti](https://github.com/koszti)]
+54. [Wisr](https://wisr.com.au/) [[@fsodano](https://github.com/fsodano) & [@vincyf1](https://github.com/vincyf1)]
+55. [WixAnswers](https://www.wixanswers.com/) [[@eladkal](https://github.com/eladkal)]
+56. [Wix](https://www.wix.com/) [[@eladkal](https://github.com/eladkal)]
+57. [Wooga](https://www.wooga.com/)
+58. [WorldRemit](https://www.worldremit.com/) [[@boittega](https://github.com/boittega)]
+59. [Wrike](https://www.wrike.com) [[@eliseealex](https://github.com/eliseealex) & [teoretic6](https://github.com/Teoretic6)]
+60. [Xero](https://www.xero.com/) [[@yan9yu](https://github.com/yan9yu) & [adamantnz](https://github.com/adamantnz/)]
+61. [Xoom](https://www.xoom.com/)
+62. [Yahoo!](https://www.yahoo.com/)
+63. [Yieldr](https://www.yieldr.com/) [[@ggeorgiadis](https://github.com/ggeorgiadis)]
+64. [Zapier](https://www.zapier.com) [[@drknexus](https://github.com/drknexus) & [@statwonk](https://github.com/statwonk)]
+65. [Zego](https://www.zego.com/) [[@ruimffl](https://github.com/ruimffl), [@james-welly](https://github.com/james-welly), [@ken-payne](https://github.com/ken-payne)]
+66. [Zendesk](https://www.github.com/zendesk)
+67. [Zenly](https://zen.ly) [[@cerisier](https://github.com/cerisier) & [@jbdalido](https://github.com/jbdalido)]
+68. [Zerodha](https://zerodha.com/) [[@johnnybravo-xyz](https://github.com/johnnybravo-xyz)]
+69. [Zymergen](https://www.zymergen.com/)
+70. [Zynga](https://www.zynga.com)
